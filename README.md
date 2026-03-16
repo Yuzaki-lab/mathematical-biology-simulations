@@ -4,17 +4,22 @@ This repository features numerical simulations of fundamental models in mathemat
 
 ## Implemented Models
 
-### 1. SIR Model
+### 1. SIR_Model
 - **Description**: A classic compartmental model in epidemiology that computes the theoretical number of people infected with a contagious illness in a closed population over time.
 - **Key Features**: Visualization of Susceptible, Infectious, and Recovered populations.
 
-### 2. Lotka-Volterra Predator-Prey Model
+### 2. Lotka_Volterra_Equation_Model
 - **Description**: Describes the dynamics of biological systems in which two species interact, one as a predator and the other as prey.
 
-### 3. Lotka-Volterra Competition Model
+### 3. Lotka_Volterra_Competition_Model
 - **Description**: An extension of the logistic growth equation to model how two species compete for the same limited resources.
 - **Analysis**: Explores scenarios of stable coexistence versus competitive exclusion.
 
+### 4. Reaction_Diffusion_Simulation of Turing
+### 5. Game_Theory
+### 6. Network_Epidemic_Model
+### 7. Monte_Carlo_Simulation
+### 8. Agent_Based_Model
 ## Tech Stack
 - **Language**: Python 3.x
 - **Libraries**: 
