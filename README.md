@@ -17,6 +17,7 @@ Extends epidemic modeling to network structures, where disease spreads through c
 ### Lotka_Volterra_Competition_Model
 - **Description**: An extension of the logistic growth equation to model how two species compete for the same limited resources.
 - **Analysis**: Explores scenarios of stable coexistence versus competitive exclusion.
+<img width="600" height="500" alt="Competition_Outcome_Map" src="https://github.com/user-attachments/assets/0aa78f96-d8c7-4921-996a-cfaf0b04e2e2" />
 
 ### Pattern Formation
 ### Reaction_Diffusion(Turing Patterns)
