@@ -14,7 +14,7 @@ Extends epidemic modeling to network structures, where disease spreads through c
 ### Lotka_Volterra_Predator_Prey_Model
 - **Description**: Describes the dynamics of biological systems in which two species interact, one as a predator and the other as prey.
 - **Key Features**:Oscillatory population dynamics,predator–prey cycles
-  <img width="640" height="480" alt="preypredator" src="https://github.com/user-attachments/assets/f79cd71e-f4a3-441c-ad9a-d3e7b4ab9820" />
+<img width="640" height="480" alt="preypredator" src="https://github.com/user-attachments/assets/f79cd71e-f4a3-441c-ad9a-d3e7b4ab9820" />
 
 <img width="640" height="480" alt="phase_Diagram" src="https://github.com/user-attachments/assets/fdc79d7f-c570-444c-bfb3-4345602b50ab" />
 
