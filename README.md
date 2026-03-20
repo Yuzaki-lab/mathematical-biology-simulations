@@ -14,6 +14,8 @@ Extends epidemic modeling to network structures, where disease spreads through c
 ### Lotka_Volterra_Predator_Prey_Model
 - **Description**: Describes the dynamics of biological systems in which two species interact, one as a predator and the other as prey.
 - **Key Features**:Oscillatory population dynamics,predator–prey cycles
+  <img width="640" height="480" alt="preypredator" src="https://github.com/user-attachments/assets/f79cd71e-f4a3-441c-ad9a-d3e7b4ab9820" />
+
 ### Lotka_Volterra_Competition_Model
 - **Description**: An extension of the logistic growth equation to model how two species compete for the same limited resources.
 - **Analysis**: Explores scenarios of stable coexistence versus competitive exclusion.
