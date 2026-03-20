@@ -26,6 +26,8 @@ Extends epidemic modeling to network structures, where disease spreads through c
 ### Evolutionary and Complex Systems
 ### Game Theory Simulation
 - **Description**:Agent-based simulations exploring evolutionary game dynamics such as the emergence of cooperation.
+  <img width="640" height="480" alt="Game_theory" src="https://github.com/user-attachments/assets/a50bbd8b-110e-44d2-9829-22f9bb330988" />
+
 ### Agent_Based_Model
 - **Description**:Simulates interacting agents whose local rules generate complex global behavior.
 
